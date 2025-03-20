@@ -1,7 +1,5 @@
 package String;
 
-import Encapsulation.Main;
-
 //import java.util.*;
 //import java.io.*;
 public class PrettyPrinting {
