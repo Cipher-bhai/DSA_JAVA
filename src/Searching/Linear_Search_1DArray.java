@@ -1,6 +1,6 @@
 package Searching;
 import java.util.*;
-public class Linear_Search {
+public class Linear_Search_1DArray {
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
         int []num = new int[5];
@@ -20,7 +20,7 @@ public class Linear_Search {
         if(flag == 1){
             System.out.print("Record exist in the Array.");
         }else{
-            System.out.println("Record does not exist.");
+            System.out.println("Record does not exist in the Array .");
         }
     }
 }
